@@ -59,9 +59,6 @@ alt="Gmail" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedhany990&show_icons=true&theme=dark&locale=en" alt="mohammedhany990" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedhany990&theme=dark" alt="mohammedhany990" />
-</p>
 
 
 
