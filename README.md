@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 - 🌱 I’m currently learning **Angular**
-- 💬 Ask me about **.NET Core, Spring Boot, and Angular**
+- 💬 Ask me about **.NET Core, Spring Boot, Angular, Git, Docker, Python, and SQL**
 - 📫 How to reach me **mohammedhanymaher990@gmail.com**
 
 ---
@@ -45,6 +45,18 @@ alt="Gmail" />
 
 <!-- Angular -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" />
+
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+
+<!-- Docker -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+
+<!-- Git -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+
+<!-- SQL Server -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" />
 
 <!-- CSS3 -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
