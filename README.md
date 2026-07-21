@@ -109,7 +109,7 @@ public class MohammedHany implements BackendEngineer {
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cs,dotnet,python,js,ts"/>
+<img src="https://skillicons.dev/icons?i=java,cs,python,js,ts"/>
 </p>
 
 ### Backend Development
